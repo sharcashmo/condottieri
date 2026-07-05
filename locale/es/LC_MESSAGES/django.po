@@ -1,0 +1,900 @@
+# SPANISH TRANSLATION FOR MACHIAVELLI APP IN CONDOTTIERI.
+# Copyright (C) Jose Antonio Martin Prieto
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <jantonio.martin@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-27 13:09+0200\n"
+"PO-Revision-Date: 2010-03-07 10:35+0100\n"
+"Last-Translator: José Antonio Martín <jantonio.martin@gmail.com>\n"
+"Language-Team: ES <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: templates/503.html:30
+msgid "Maintenance"
+msgstr "Mantenimiento"
+
+#: templates/503.html:31
+msgid ""
+"Right now, I'm making some changes in the website. It will be back shortly."
+msgstr ""
+"Ahora mismo estoy haciendo algunos cambios en la web. Pronto estará disponible."
+
+#: templates/503.html:36 templates/site_base.html:51
+msgid "&copy; 2010 J. A. Mart&iacute;n Prieto"
+msgstr "&copy; 2010 J. A. Antonio Mart&iacute;n Prieto"
+
+#: templates/503.html:37 templates/site_base.html:52
+#: templates/about/about.html:5
+msgid "About"
+msgstr "Sobre mí"
+
+#: templates/base.html:38
+msgid "Hide announcement"
+msgstr "Ocultar anuncio"
+
+#: templates/base.html:58
+msgid "clear"
+msgstr "quitar"
+
+#: templates/homepage.html:5
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: templates/homepage.html:10
+msgid "Welcome to Condottieri"
+msgstr "Bienvenido a Condottieri"
+
+#: templates/homepage.html:12
+msgid ""
+"\n"
+"\t\t<b>Condottieri</b> is a gaming site to play the Avalon Hill's classic "
+"strategy game <b>Machiavelli</b>.\n"
+"        "
+msgstr ""
+"\n"
+"\t\t<b>Condottieri</b> es una aplicación para jugar al clásico juego de "
+"estrategia de Avalon Hill, <b>Machiavelli</b>.\n"
+"        "
+
+#: templates/homepage.html:17
+msgid ""
+"\n"
+"\t\tThis is only a fan, non-profit oriented, site that is in no way "
+"affiliated with Avalon Hill.\n"
+"\t\t"
+msgstr ""
+"\n"
+"\t\tEsta proyecto se ha hecho sólo como hobby y sin ánimo de lucro, y no "
+"está relacionado en modo alguno con Avalon Hill.\n"
+"\t\t"
+
+#: templates/homepage.html:21
+msgid "Follow Condottieri in Twitter"
+msgstr "Sigue a Condottier en Twitter"
+
+#: templates/homepage.html:23
+msgid ""
+"You can get news, updates and game messages in <a href=\"http://twitter.com/"
+"condottierigame\">twitter</a>!"
+msgstr ""
+"Puedes enterarte de noticias, actualizaciones y mensajes del juego en <a "
+"href=\"http://twitter.com/condottierigame\">twitter</a>."
+
+#: templates/homepage.html:25
+msgid "About this project"
+msgstr "Sobre este proyecto"
+
+#: templates/homepage.html:27
+msgid ""
+"\n"
+"\t\t<b>Condottieri</b> is being developed on <a href=\"http://djangoproject."
+"com\">Django</a>,\n"
+"\t\t<a href=\"http://pinaxproject.com\">Pinax</a> and, of course,\n"
+"\t\t<a href=\"http://www.python.org\">Python</a>.\n"
+"        "
+msgstr ""
+"\n"
+"\t\t<b>Condottieri</b> está siendo desarrollado sobre <a href=\"http://"
+"djangoproject.com\">Django</a>,\n"
+"\t\t<a href=\"http://pinaxproject.com\">Pinax</a> y, por supuesto,\n"
+"\t\t<a href=\"http://www.python.org\">Python</a>.\n"
+"        "
+
+#: templates/homepage.html:34
+msgid ""
+"\n"
+"\t\tThis project is in <i>beta</i> status, so it can have (sure it has) "
+"errors. Hopefully these errors will be fixed as soon as they are detected.\n"
+"\t\t"
+msgstr ""
+"\n"
+"\t\tEste proyecto está en estado <i>beta</i>, por lo que puede tener (seguro "
+"que los tiene) errores. Estos errores se corregirán tan pronto como sean "
+"detectados.\n"
+"\t\t"
+
+#: templates/homepage.html:38
+msgid "Condottieri is Libre Software"
+msgstr "Condottieri es Software Libre"
+
+#: templates/homepage.html:40
+msgid ""
+"<b>Condottieri</b> is free and open source software, and\n"
+"\t\tas such, you are free to copy, improve and modify it, under the terms\n"
+"\t\tof the Affero GNU/GPL-3 License."
+msgstr ""
+"<b>Condottieri</b> es software libre, y\n"
+"como tal, eres libre de copiarlo, mejorarlo y modificarlo, según los "
+"términos\n"
+"de la Licencia Affero GNU/GPL-3."
+
+#: templates/homepage.html:45
+msgid "You can get a copy of the source code in the"
+msgstr "Puedes conseguir una copia del código fuente en el"
+
+#: templates/homepage.html:46
+msgid "public repository"
+msgstr "repositorio público"
+
+#: templates/homepage.html:48
+msgid "Features"
+msgstr "Características"
+
+#: templates/homepage.html:49
+msgid "The following is a list of the main current features of this site."
+msgstr ""
+"La siguiente es una lista de las características más destacables de esta web."
+
+#: templates/homepage.html:51
+msgid "Supported languages: English and Spanish."
+msgstr "Idiomas soportados: Español e Inglés."
+
+#: templates/homepage.html:52
+msgid "Profiles support."
+msgstr "Perfiles de usuario."
+
+#: templates/homepage.html:53
+msgid "Receive notices by email or read them online."
+msgstr "Recibe avisos por email o leelos online."
+
+#: templates/homepage.html:54
+msgid "You can play many games at a time."
+msgstr "Puedes jugar muchas partidas a la vez."
+
+#: templates/homepage.html:55
+msgid "Per-game scores and global scores."
+msgstr "Puntuaciones por juego y totales."
+
+#: templates/homepage.html:56
+msgid "Send diplomacy messages to other players."
+msgstr "Envía mensajes de diplomacia a otros jugadores."
+
+#: templates/homepage.html:57
+msgid "Automatic resolution of orders."
+msgstr "Resolución automática de órdenes."
+
+#: templates/homepage.html:58
+msgid "Automatic map drawing."
+msgstr "Generación automática del mapa."
+
+#: templates/homepage.html:59
+msgid "Complete list of events."
+msgstr "Lista completa de eventos."
+
+#: templates/homepage.html:60
+msgid "Some events are posted to "
+msgstr "Algunos eventos son enviados a "
+
+#: templates/homepage.html:64
+msgid "Invitation codes"
+msgstr "Códigos de invitación"
+
+#: templates/homepage.html:66
+msgid ""
+"<b>Condottieri</b> is currently under active development. If you would like "
+"to receive a\n"
+"        beta code for this please give us your e-mail address below."
+msgstr ""
+"<b>Condottieri</b> está en pleno desarrollo. Si quieres recibir un\n"
+"código de registro, por favor, danos tu dirección de e-mail."
+
+#: templates/homepage.html:73 templates/homepage.html.py:85
+#: templates/site_base.html:25
+msgid "Sign up"
+msgstr "Registro"
+
+#: templates/homepage.html:76 templates/site_base.html:25
+msgid "or"
+msgstr "o"
+
+#: templates/homepage.html:79
+msgid "You can use a sign-up code to sign-up with the site right now."
+msgstr "Puedes usar un código de registro para darte de alta ahora mismo."
+
+#: templates/site_base.html:23 templates/account/email.html:6
+#: templates/account/email.html.py:9
+msgid "Account"
+msgstr "Cuenta"
+
+#: templates/site_base.html:23
+msgid "Admin"
+msgstr "Admin"
+
+#: templates/site_base.html:23 templates/account/logout.html:5
+msgid "Logout"
+msgstr "Salir"
+
+#: templates/site_base.html:25 templates/account/login.html:7
+msgid "Login"
+msgstr "Acceder"
+
+#: templates/site_base.html:35
+msgid "Games"
+msgstr "Juegos"
+
+#: templates/site_base.html:37
+msgid "Mail"
+msgstr "Correo"
+
+#: templates/site_base.html:39
+msgid "Profile"
+msgstr "Perfil"
+
+#: templates/site_base.html:40
+msgid "Notices"
+msgstr "Avisos"
+
+#: templates/site_base.html:42
+msgid "Forum"
+msgstr "Foro"
+
+#: templates/about/about.html:9
+msgid ""
+"<b>Condottieri</b> has been developed with the help of the following pieces "
+"of free, open source software:"
+msgstr ""
+"<b>Condottieri</b> ha sido desarrollado con la ayuda de las siguientes "
+"herramientas de software libre:"
+
+#: templates/about/about.html:13
+msgid ""
+"<a href=\"http://python.org\">Python</a>. The whole application has been "
+"written in Python."
+msgstr ""
+"<a href=\"http://python.org\">Python</a>. Toda la aplicación se ha escrito "
+"en Python."
+
+#: templates/about/about.html:16
+msgid ""
+"<a href=\"http://www.djangoproject.com\">Django</a>, \"The Web framework for "
+"perfectionists with deadlines\". One of the best frameworks with probably "
+"the best documentation."
+msgstr ""
+"<a href=\"http://www.djangoproject.com\">Django</a>, \"El entorno de "
+"desarrollo web para perfeccionistas con límites de tiempo\". Uno de los "
+"mejores entornos de desarrollo con, probablemente,la mejor documentación."
+
+#: templates/about/about.html:19
+msgid ""
+"<a href=\"http://pinaxproject.com\">Pinax</a>. An integrated collection of "
+"Django applications that provides the social networking features in this "
+"website."
+msgstr ""
+"<a href=\"http://pinaxproject.com\">Pinax</a>. Una colección de aplicaciones "
+"para Django que proporcionan las funcionalidades de red social en esta web."
+
+#: templates/about/about.html:22
+msgid ""
+"<a href=\"http://www.pythonware.com/products/pil\">Python Image Library</a>. "
+"Provides image processing functionality."
+msgstr ""
+"<a href=\"http://www.pythonware.com/products/pil\">Python Image Library</a>. "
+"Proporciona la funcionalidad de procesamiento de imágenes."
+
+#: templates/about/about.html:25
+msgid ""
+"<a href=\"http://experience.sourceforge.net/\">Experience</a>::Panorama. An "
+"image viewer with panning and zooming support."
+msgstr ""
+"<a href=\"http://experience.sourceforge.net/\">Experience</a>::Panorama. Un "
+"visor de imagen con encuadre y zoom."
+
+#: templates/about/dmca.html:5
+msgid "Digital Millennium Copyright Act Notice"
+msgstr ""
+
+#: templates/about/dmca.html:8
+msgid ""
+"<p>Your <b>Digital Millennium Copyright Act Notice</b> would normally go "
+"here...</p>"
+msgstr ""
+
+#: templates/about/privacy.html:5
+msgid "Privacy Policy"
+msgstr "Privacidad"
+
+#: templates/about/privacy.html:8
+msgid "<p>Your <b>Privacy Policy</b> would normally go here...</p>"
+msgstr ""
+
+#: templates/about/terms.html:5
+msgid "Terms of Service"
+msgstr "Condiciones de servicio"
+
+#: templates/about/terms.html:8
+msgid "<p>Your <b>Terms of Service</b> would normally go here...</p>"
+msgstr ""
+
+#: templates/about/what_next.html:6
+msgid "What Next?"
+msgstr "¿Y ahora qué?"
+
+#: templates/about/what_next.html:11
+msgid "If you want to start playing, go to"
+msgstr "Si quieres empezar a jugar, ve a"
+
+#: templates/about/what_next.html:12
+msgid "the game list"
+msgstr "la lista de juegos"
+
+#: templates/about/what_next.html:15
+msgid "However, there are some things that you may want to do before:"
+msgstr "Sin embargo, hay algunas cosas que quizá quieras hacer antes:"
+
+#: templates/about/what_next.html:19
+msgid "verify an email address"
+msgstr "verifica una dirección de email"
+
+#: templates/about/what_next.html:20
+msgid ""
+"so you can receive notifications, reset your password and so people can find "
+"you more easily."
+msgstr ""
+"para que puedas recibir notificaciones, recuperar tu contraseña y para que "
+"se te pueda encontrar más fácilmente."
+
+#: templates/about/what_next.html:22
+msgid "fill out your profile"
+msgstr "rellena tu perfil"
+
+#: templates/about/what_next.html:23
+msgid "to tell the world a little about yourself."
+msgstr "para contarle al mundo algo sobre ti"
+
+#: templates/about/what_next.html:28
+msgid "invite more people to the site"
+msgstr "invitar a más gente"
+
+#: templates/about/what_next.html:28
+msgid "admin only"
+msgstr "sólo admin"
+
+#: templates/about/what_next.html:29
+msgid "so more people can share in the fun."
+msgstr "para que más gente pueda jugar."
+
+#: templates/about/what_next.html:39
+#, python-format
+msgid ""
+"Start by <a href=\"%(signup_url)s\">signing up</a> and <a href="
+"\"%(login_url)s\">logging in</a>."
+msgstr ""
+"Empieza <a href=\"%(signup_url)s\">registrándote</a> y <a href="
+"\"%(login_url)s\">accediendo</a>."
+
+#: templates/about/what_next.html:41
+#, python-format
+msgid "Start by <a href=\"%(login_url)s\">logging in</a>."
+msgstr "Empieza <a href=\"%(login_url)s\">accediendo</a>."
+
+#: templates/account/base.html:11
+msgid "E-Mail Addresses"
+msgstr "Direcciones de correo electrónico"
+
+#: templates/account/base.html:13 templates/account/password_change.html:5
+#: templates/account/password_change.html:8
+#: templates/account/password_reset_from_key.html:5
+#: templates/account/password_reset_from_key.html:8
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: templates/account/base.html:15 templates/account/password_set.html:6
+#: templates/account/password_set.html:9
+msgid "Set Password"
+msgstr "Guardar Contraseña"
+
+#: templates/account/base.html:17 templates/account/language_change.html:6
+#: templates/account/language_change.html:9
+msgid "Language"
+msgstr "Idioma"
+
+#: templates/account/base.html:18 templates/account/timezone_change.html:6
+#: templates/account/timezone_change.html:9
+msgid "Timezone"
+msgstr "Zona horaria"
+
+#: templates/account/email.html:11
+msgid "Email Addresses"
+msgstr "Direcciones de correo electrónico"
+
+#: templates/account/email.html:20
+msgid "verified"
+msgstr "verificado"
+
+#: templates/account/email.html:22
+msgid "primary"
+msgstr "principal"
+
+#: templates/account/email.html:30
+msgid "make primary"
+msgstr "hacer principal"
+
+#: templates/account/email.html:35
+msgid "unverified"
+msgstr "sin verificar"
+
+#: templates/account/email.html:42
+msgid "re-send verification email"
+msgstr "reenviar email de verificación"
+
+#: templates/account/email.html:53
+msgid "remove"
+msgstr "eliminar"
+
+#: templates/account/email.html:60
+msgid "None"
+msgstr "Ninguno"
+
+#: templates/account/email.html:60
+msgid ""
+"You should really add one so you can receive notifications, reset your "
+"password if you forget it, etc."
+msgstr ""
+"Deberías añadir uno para poder recibir notificaciones, reiniciar tu "
+"contraseña si la olvidas, etc."
+
+#: templates/account/email.html:63
+msgid "Add Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: templates/account/email.html:71
+msgid "add"
+msgstr "añadir"
+
+#: templates/account/language_change.html:11
+msgid "Condottieri can be used in your preferred language."
+msgstr "Puedes usar Condottieri en el idioma que prefieras."
+
+#: templates/account/language_change.html:18
+msgid "Change my language"
+msgstr "Cambiar mi idioma"
+
+#: templates/account/login.html:11 templates/account/signup.html:14
+msgid "Log In"
+msgstr "Acceder"
+
+#: templates/account/login.html:14 templates/account/password_reset.html:12
+#: templates/account/password_reset_done.html:11
+msgid "Note"
+msgstr "Aviso"
+
+#: templates/account/login.html:14 templates/account/password_reset.html:12
+#: templates/account/password_reset_done.html:11
+#, python-format
+msgid "you are already logged in as %(user)s."
+msgstr "ya habías ingresado como %(user)s."
+
+#: templates/account/login.html:18
+#, python-format
+msgid "Don't have an account? <a href=\"%(signup_url)s\">Sign up</a>!"
+msgstr "¿No tienes una cuenta? ¡<a href=\"%(signup_url)s\">Regístrate</a>!"
+
+#: templates/account/login.html:26
+msgid "Forgot password?"
+msgstr "¿Olvidaste la contraseña?"
+
+#: templates/account/login.html:30
+msgid "Log in &raquo;"
+msgstr "Entrar &raquo;"
+
+#: templates/account/login.html:35
+#, python-format
+msgid ""
+"If you have any trouble logging in to your account, contact us at <a href="
+"\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"Si tienes algún problema para entrar en tu cuenta, envia un email a <a href="
+"\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+
+#: templates/account/logout.html:8
+msgid "You've been logged out."
+msgstr "Has cerrado la sesión."
+
+#: templates/account/password_change.html:15
+#: templates/account/password_reset_from_key.html:18
+msgid "change password"
+msgstr "cambiar contraseña"
+
+#: templates/account/password_delete.html:5
+#: templates/account/password_delete.html:8
+msgid "Delete Password"
+msgstr "Borrar Contraseña"
+
+#: templates/account/password_delete.html:9
+msgid ""
+"You may delete your password since you are currently logged in using OpenID."
+msgstr "Puedes borrar tu contraseña, ya que estás usando OpenID."
+
+#: templates/account/password_delete_done.html:5
+#: templates/account/password_delete_done.html:8
+msgid "Password Deleted"
+msgstr "Contraseña Borrada"
+
+#: templates/account/password_delete_done.html:9
+msgid "Your password has been deleted."
+msgstr "Tu contraseña ha sido borrada."
+
+#: templates/account/password_reset.html:6
+#: templates/account/password_reset.html:10
+#: templates/account/password_reset_done.html:5
+#: templates/account/password_reset_done.html:8
+msgid "Password Reset"
+msgstr "Reiniciar Contraseña"
+
+#: templates/account/password_reset.html:15
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll send you "
+"an e-mail allowing you to reset it."
+msgstr ""
+"¿Olvidaste tu contraseña? Escribe tu dirección de email, y te enviaremos un "
+"correo que te permita reiniciarla."
+
+#: templates/account/password_reset.html:22
+msgid "Reset my password"
+msgstr "Reiniciar mi Contraseña"
+
+#: templates/account/password_reset.html:27
+#, python-format
+msgid ""
+"If you have any trouble resetting your password, contact us at <a href="
+"\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"Si tienes algún problema reiniciando tu contraseña, envía un correo a <a "
+"href=\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+
+#: templates/account/password_reset_done.html:14
+#, python-format
+msgid ""
+"We have sent you an e-mail to <b>%(email)s</b>. If you do not receive it "
+"within a few minutes, contact us at <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"Se te ha enviado un email a <b>%(email)s</b>. Si no lo recibes en unos "
+"minutos, envía un email a <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>."
+
+#: templates/account/password_set.html:16
+msgid "set password"
+msgstr "Guardar Contraseña"
+
+#: templates/account/signup.html:6
+msgid "Signup"
+msgstr "Registro"
+
+#: templates/account/signup.html:9
+msgid "Sign Up"
+msgstr "Registrar"
+
+#: templates/account/signup.html:12
+msgid "You are already logged in."
+msgstr "Ya habías ingresado."
+
+#: templates/account/signup.html:14
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+#: templates/account/signup.html:21
+msgid "Sign Up &raquo;"
+msgstr "Entra &raquo;"
+
+#: templates/account/signup.html:28
+#, python-format
+msgid ""
+"By clicking \"Sign Up\", you are indicating that you have read and agree to "
+"the <a href=\"%(terms_url)s\">Terms of Use</a> and <a href=\"%(privacy_url)s"
+"\">Privacy Policy</a>."
+msgstr ""
+"Si pulsas \"Registrar\", estás indicando que has leído y estás de acuerdo "
+"con las <a href=\"%(terms_url)s\">Condiciones de Uso</a> y la <a href="
+"\"%(privacy_url)s\">Política de Privacidad</a>."
+
+#: templates/account/signup.html:30
+#, python-format
+msgid ""
+"If you have any trouble creating your account, contact us at <a href="
+"\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"Si tienes algún problema creando tu cuenta, envía un email a <a href="
+"\"mailto:%(CONTACT_EMAIL)s\">%(CONTACT_EMAIL)s</a>."
+
+#: templates/account/timezone_change.html:11
+msgid ""
+"You can see all times into your preferred timezone. Change your timezone "
+"below."
+msgstr ""
+"Puedes ver todas las horas según la zona horaria que prefieras. Cambia tu "
+"zona horaria abajo."
+
+#: templates/account/timezone_change.html:17
+msgid "Change my timezone"
+msgstr "Cambiar mi zona horaria"
+
+#: templates/account/verification_sent.html:5
+#: templates/account/verification_sent.html:8
+msgid "Verify your e-mail address"
+msgstr "verifica tu dirección de email"
+
+#: templates/account/verification_sent.html:10
+#, python-format
+msgid ""
+"We have sent you an e-mail to <b>%(email)s</b> for verification. Follow the "
+"link provided to finalize the signup process. If you do not receive it "
+"within a few minutes, contact us at <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>."
+msgstr ""
+"Se ha enviado un email a <b>%(email)s</b> para verificar tu dirección. Sigue "
+"el enlace enviado para finalizar el proceso de registro. Si no lo recibes en "
+"unos minutos, envía un correo a <a href=\"mailto:%(CONTACT_EMAIL)s\">"
+"%(CONTACT_EMAIL)s</a>."
+
+#: templates/default/404.html:5
+msgid "Not Found"
+msgstr "No Encontrado"
+
+#: templates/default/404.html:8
+msgid "We're sorry but that page could not be found."
+msgstr "La página que buscas no se ha encontrado."
+
+#: templates/default/500.html:5
+msgid "Server Error"
+msgstr "Error del servidor"
+
+#: templates/default/500.html:8
+msgid ""
+"We're sorry but a server error has occurred. We've been notified and will "
+"look into it as soon as possible."
+msgstr ""
+"Lamentablemente ha ocurrido un error en el servidor. Se investigará el error "
+"lo antes posible"
+
+#: templates/notification/email_body.txt:1
+#, python-format
+msgid ""
+"You have received the following notice from %(current_site)s:\n"
+"\n"
+"%(message)s\n"
+"\n"
+"To see other notices or change how you receive notifications, please go to "
+"%(notices_url)s.\n"
+msgstr ""
+"Has recibido el siguiente aviso de %(current_site)s:\n"
+"\n"
+"%(message)s\n"
+"\n"
+"Para ver otros avisos o cambiar la forma en que los recibes, puedes ir a "
+"%(notices_url)s.\n"
+
+#: templates/notification/game_over/full.txt:3
+#, python-format
+msgid "The game '%(slug)s' is over. You can "
+msgstr "El juego '%(slug)s' ha terminado. Puedes "
+
+#: templates/notification/game_over/full.txt:4
+msgid "see the results in "
+msgstr "ver los resultados"
+
+#: templates/notification/game_over/notice.html:3
+#, python-format
+msgid "The game '%(slug)s' has is over. You can "
+msgstr "El juego '%(slug)s' ha terminado. Puedes "
+
+#: templates/notification/game_over/notice.html:4
+msgid "see the results"
+msgstr "ver los resultados"
+
+#: templates/notification/game_started/full.txt:3
+#: templates/notification/game_started/notice.html:3
+#, python-format
+msgid "The game '%(slug)s' has just started. You can "
+msgstr "El juego '%(slug)s' acaba de empezar. Puedes "
+
+#: templates/notification/game_started/full.txt:4
+msgid "play it in "
+msgstr "jugar en "
+
+#: templates/notification/game_started/notice.html:4
+msgid "play it now"
+msgstr "jugar ahora"
+
+#: templates/notification/got_player/full.txt:3
+#: templates/notification/got_player/notice.html:3
+#, python-format
+msgid "You are now playing the game '%(slug)s'."
+msgstr "Desde ahora estás jugando en el juego '%(slug)s'."
+
+#: templates/notification/got_player/full.txt:5
+#: templates/notification/got_player/notice.html:5
+#: templates/notification/lost_player/full.txt:5
+#: templates/notification/lost_player/notice.html:5
+#: templates/notification/overthrow_attempt/full.txt:10
+#: templates/notification/overthrow_attempt/notice.html:10
+msgid "Go to the game"
+msgstr "Ir al juego"
+
+#: templates/notification/letter_received/full.txt:3
+#, python-format
+msgid "You have received a new letter in the game '%(slug)s'"
+msgstr "Has recibido una nueva carta en el juego '%(slug)s'."
+
+#: templates/notification/letter_received/full.txt:5
+msgid "From"
+msgstr "De"
+
+#: templates/notification/letter_received/full.txt:7
+msgid "Body"
+msgstr "Contenido"
+
+#: templates/notification/letter_received/full.txt:10
+msgid "Read the letter"
+msgstr "Leer la carta"
+
+#: templates/notification/lost_player/full.txt:3
+#: templates/notification/lost_player/notice.html:3
+#, python-format
+msgid "You have been overthrown in game '%(slug)s'."
+msgstr "Has sido derrocado en el juego '%(slug)s'."
+
+#: templates/notification/new_phase/full.txt:3
+#, python-format
+msgid "The phase '%(phase)s' has begun in the game '%(slug)s'. You can "
+msgstr "La fase '%(phase)s' ha comenzado en el juego '%(slug)s'."
+
+#: templates/notification/new_phase/full.txt:4
+msgid "go to the game"
+msgstr "ir al juego"
+
+#: templates/notification/overthrow_attempt/full.txt:3
+#: templates/notification/overthrow_attempt/notice.html:3
+#, python-format
+msgid ""
+"You have neglected your government\n"
+"duties in game '%(slug)s' and someone wants to take your place."
+msgstr ""
+"Has descuidado tus tareas de gobierno\n"
+"en el juego '%(slug)s' y alguien quiere ocupar tu lugar."
+
+#: templates/notification/overthrow_attempt/full.txt:6
+#: templates/notification/overthrow_attempt/notice.html:6
+msgid ""
+"If you want to keep playing in this game, you have only to\n"
+"make your actions, and you will keep your country. If you don't make your\n"
+"actions in the current phase, another player will take your country."
+msgstr ""
+"Si quieres seguir jugando, solo tienes que\n"
+"hacer tus acciones, y conservarás tu país. Si no haces tus acciones\n"
+"en la fase actual, otro jugador tomará el control de tu país."
+
+#: templates/notification/overthrow_attempt/full.txt:12
+#: templates/notification/overthrow_attempt/notice.html:12
+msgid ""
+"If you do not want to play this game, it's better that you\n"
+"let the other player to take your country. This way you won't lose more "
+"karma\n"
+"for not playing this game."
+msgstr ""
+"Si no quieres jugar esta partida, es mejor que dejes\n"
+"que otro jugador controle tu país. De esta forma no perderás más karma\n"
+"por no jugar la partida."
+
+#~ msgid "Your Profile"
+#~ msgstr "Tu Perfil"
+
+#~ msgid "All Profiles"
+#~ msgstr "Todos"
+
+#~ msgid "Profile for %(other_user)s"
+#~ msgstr "Perfil de %(other_user)s"
+
+#~ msgid "Profile for <span class=\"nickname\">%(other_user)s</span>"
+#~ msgstr "Perfil de <span class=\"nickname\">%(other_user)s</span>"
+
+#~ msgid "Profile for <span class=\"fn nickname\">%(other_user)s</span>"
+#~ msgstr "Perfil de <span class=\"fn nickname\">%(other_user)s</span>"
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "Location"
+#~ msgstr "Ubicación"
+
+#~ msgid "Website"
+#~ msgstr "Web"
+
+#~ msgid "Followers"
+#~ msgstr "Seguidores"
+
+#~ msgid "Following"
+#~ msgstr "Siguiendo"
+
+#~ msgid "unfollow"
+#~ msgstr "no seguir"
+
+#~ msgid "follow tweets"
+#~ msgstr "seguir tweets"
+
+#~ msgid "You are friends with %(other_user)s."
+#~ msgstr "Eres amigo de %(other_user)s."
+
+#~ msgid "Send a message"
+#~ msgstr "Enviar una carta"
+
+#~ msgid "remove from friends"
+#~ msgstr "quitar de tus amigos"
+
+#~ msgid "%(other_user)s has requested friendship."
+#~ msgstr "%(other_user)s ha solicitado tu amistad."
+
+#~ msgid "accept"
+#~ msgstr "aceptar"
+
+#~ msgid "decline"
+#~ msgstr "declinar"
+
+#~ msgid "Friendship request sent."
+#~ msgstr "Solicitud de amistad enviada."
+
+#~ msgid "Add As Friend"
+#~ msgstr "Añadir como amigo"
+
+#~ msgid "invite"
+#~ msgstr "invitar"
+
+#~ msgid "%(other_user)s to be a friend."
+#~ msgstr "a %(other_user)s a que sea tu amigo."
+
+#~ msgid "Wiki Articles"
+#~ msgstr "Artículos Wiki"
+
+#, fuzzy
+#~ msgid "No wiki articles yet."
+#~ msgstr "Artículos Wiki"
+
+#~ msgid ""
+#~ "<a href=\"%(signup_url)s\">Sign up</a> and <a href=\"%(login_url)s\">log "
+#~ "in </a> to add this person as a friend and see their tweets and blog "
+#~ "posts."
+#~ msgstr ""
+#~ "Empieza <a href=\"%(signup_url)s\">registrándote</a> y <a href="
+#~ "\"%(login_url)s\">accediendo</a>."
+
+#~ msgid "Edit Profile"
+#~ msgstr "Editar Perfil"
+
+#~ msgid "Profiles"
+#~ msgstr "Perfiles"
+
+#~ msgid "Order by:"
+#~ msgstr "Ordenar por:"
+
+#~ msgid "Date"
+#~ msgstr "Fecha"
+
+#~ msgid "MONTH_DAY_FORMAT"
+#~ msgstr "j F"

@@ -28,3 +28,12 @@ third_party/
 /condottieri_messages/
 /condottieri_profiles/
 /condottieri_scenarios/
+
+# Entorno virtual y temporales
+venv/
+__pycache__/
+*.pyc
+
+# Carpetas históricas a ignorar
+clones/
+doc/clones/
